@@ -38,5 +38,5 @@ For Ubuntu:
 
 3. Run project 
    
-   `npm index.js`
+   `node index.js`
 
